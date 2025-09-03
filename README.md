@@ -1,4 +1,3 @@
-
 # 📝 App de Tareas con Fondo Dinámico 🌄
 
 Aplicación CRUD de Tareas desarrollada en **React + TypeScript + Tailwind CSS**.  
